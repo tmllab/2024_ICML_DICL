@@ -1,7 +1,7 @@
 
 # Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning
 
-Zhuo Huang<sup>1</sup>, Chang Liu<sup>2</sup>, Yinpeng Dong<sup>3</sup>, Hang Su<sup>3, 4</sup>, Tongliang Liu<sup>1</sup>
+Zhuo Huang<sup>1</sup>, Chang Liu<sup>2</sup>, Yinpeng Dong<sup>3</sup>, Hang Su<sup>3, 4</sup>, Shibao Zheng<sup>2</sup>, Tongliang Liu<sup>1</sup>
 
 <sup>1</sup>The University of Sydney, <sup>2</sup>Shanghai JiaoTong University, <sup>3</sup>Tsinghua University, <sup>4</sup>Peng Cheng Laboratory
 

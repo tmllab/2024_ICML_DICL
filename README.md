@@ -34,7 +34,7 @@ from mpt_redpajama.mosaic_gpt import MosaicGPT
  Machine Vision Therapy can enhance the visual robustness on various circumstances, for example:
 + <mark>**Generalization on both ID and OOD data**<mark>
 
-+ <mark>**Robustness against Distribution Shift**<mark>
++ <mark>**Robustness against Domain Shift**<mark>
 
 + <mark>**Robustness against Common Corruptions**<mark>
 

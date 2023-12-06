@@ -236,10 +236,10 @@ In `fine_tuning.py`, the data paths `meta_file` of all test data is stored in `.
 <br> **📑 If you find our paper and code helpful for your research, please consider citing:** <br>
 ```
 @article{huang2023machine,
-  title={Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning},
-  author={Huang, Zhuo and Liu, Chang and Dong, Yinpeng and Su, Hang and Zheng, Shibao and Liu, Tongliang},
-  journal={arXiv preprint arXiv},
-  year={2023}
+      title={Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning}, 
+      author={Zhuo Huang and Chang Liu and Yinpeng Dong and Hang Su and Shibao Zheng and Tongliang Liu},
+      journal={arXiv preprint arXiv:2312.02546},
+      year={2023}
 }
 ```
 

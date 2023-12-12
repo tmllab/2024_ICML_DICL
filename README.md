@@ -59,8 +59,8 @@ We use various ID and OOD datasets, including ImageNet, ImageNet-A, ImageNet-R, 
 To specify a dataset:
 ```
 --dataset: specify a dataset from ['mnist', 'cifar10', 'iwildcam', 'celebA', 'imagenet', 'cifar100', 'domainbed']
-
 ```
+
 Further, for ImageNet-based datasets and DomainBed-based datasets, please set:
 ```
 --chosen_name: specify a ImageNet-based dataset from ['ImageNet', 'ImageNetV2', 'ImageNetA', 'ImageNetR', 'ImageNetSketch', 'ImageNetV', 'ImageNetC', 'domainbed'] or a DomainBed-based dataset from ['PACS', 'VLCS', 'OfficeHome', 'DomainNet']
@@ -236,10 +236,10 @@ In `fine_tuning.py`, the data paths `meta_file` of all test data is stored in `.
 <br> **📑 If you find our paper and code helpful for your research, please consider citing:** <br>
 ```
 @article{huang2023machine,
-      title={Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning}, 
-      author={Zhuo Huang and Chang Liu and Yinpeng Dong and Hang Su and Shibao Zheng and Tongliang Liu},
-      journal={arXiv preprint arXiv:2312.02546},
-      year={2023}
+  title={Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning},
+  author={Huang, Zhuo and Liu, Chang and Dong, Yinpeng and Su, Hang and Zheng, Shibao and Liu, Tongliang},
+  journal={arXiv preprint arXiv:2312.02546},
+  year={2023}
 }
 ```
 

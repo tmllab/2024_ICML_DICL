@@ -118,7 +118,7 @@ rm imagenetv2-matched-frequency.tar.gz
 #### [ImageNet-V](https://github.com/Heathcliff-saku/ViewFool_)
 
 Download links:
-- from [Google Drive](https://drive.google.com/file/d/1i6QBGzERxo2br33WwIGi6GyUZasqCWp-/view)
+- from [Google Drive](https://drive.google.com/file/d/1oxrWl4mRa_mEr-ByCMhyRWaQG8Wribo7/view)
 
 
 #### [ImageNet-C](https://github.com/hendrycks/robustness)
